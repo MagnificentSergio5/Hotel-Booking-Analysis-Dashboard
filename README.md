@@ -1,4 +1,5 @@
 ## 📊 Hotel Booking Analysis Dashboard
+![Dashboard Preview](https://github.com/MagnificentSergio5/Hotel-Booking-Analysis-Dashboard/blob/main/Hotel%20Booking%20Analysis.png)
 
 ### 📌 Overview
 
