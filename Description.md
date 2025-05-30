@@ -61,7 +61,8 @@ Hotels such as **Bourbon Bliss** and **Enchanted Isle** stand out as the most po
 For feedback, collaboration, or questions:
 
 📧 [Email me](salahudeengbolahan10@gmail.com)
-🌐 [LinkedIn Profile](https://www.linkedin.com/in/gbolahan-salahudeen?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) 
+
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/gbolahan-salahudeen?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 
 ---
