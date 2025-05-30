@@ -3,7 +3,7 @@
 
 ### 📌 Overview
 
-This Power BI project visualizes and analyzes hotel booking data to uncover customer behavior, revenue trends, destination popularity, and more. The goal is to assist stakeholders in making data-driven decisions in the hospitality industry.
+This Power BI project visualizes and analyzes hotel booking data to uncover customer behavior, revenue trends, destination popularity, and more. The goal is to assist stakeholders in making data-driven decisions in the hospitality industry. Details [here]()
 
 
 ### 🛠️ Tools & Technologies Used
@@ -17,22 +17,7 @@ This Power BI project visualizes and analyzes hotel booking data to uncover cust
  **Data Modeling:** Use for establishing relationships between the main dataset and Calendar Date table.
 
 
-### 🔍 Filters & Slicers Available
 
-* Gender
-* Destination Country
-* Location
-* Origin Country
-* Payment Mode
-* Year
 
-### 📌 Potential Use Cases
-
-* Hospitality business decision-making
-* Customer segmentation
-* Revenue forecasting
-* Marketing campaign targeting
-
-You can interact with the dashboard via this link: 
-https://www.novypro.com/create_project/hotel-booking-analysis-27
+You can interact with the [here](https://www.novypro.com/create_project/hotel-booking-analysis-27)
 
